@@ -49,6 +49,7 @@ This Power BI project provides an **advanced, real-time analysis** of the **Indi
 ### **6️⃣ 📋 Details Grid – Grid that used Drill Through to see underlying data.**  
    - **Drill-through feature** for granular data analysis.  
    - Tabular format for sorting and filtering election results.  
-   - Exportable data for external analysis.  
+   - Exportable data for external analysis.
+     
 ![Dashboard 6_Details Grid](https://github.com/user-attachments/assets/cdc8b947-5c86-4eb1-a159-a1716c396530)
 
