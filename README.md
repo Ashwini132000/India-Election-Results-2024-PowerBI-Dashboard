@@ -15,7 +15,7 @@ This Power BI project provides an **advanced, real-time analysis** of the **Indi
 ![Dashboard 1_Home Page](https://github.com/user-attachments/assets/2197f3d3-d8b6-4abc-bd27-a6537e07321c)
 
 
-### **2️⃣ Overview Analysis – Election Results Summary**  
+### **2️⃣ Overview Analysis – A comprehensive summary of results and trends.**  
    - High-level **summary of results and trends**.  
    - Key metrics like **vote shares, seat distribution, and winning trends**.  
    - Interactive visualizations for quick insights.
@@ -23,14 +23,14 @@ This Power BI project provides an **advanced, real-time analysis** of the **Indi
 ![Dashboard 2_Overview Analysis](https://github.com/user-attachments/assets/67c9fe6b-a146-427d-9a02-660cf2f732ae)
 
 
-### **3️⃣ 🌍 State Demographics – Detailed State-Level Insights**  
+### **3️⃣ 🌍 State Demographics – State-level insights with dynamic metrics.**  
    - **State-wise breakdown of election results**.  
    - Voter demographics, age groups, and gender ratio.  
    - Interactive maps for comparative analysis.
      
 ![Dashboard 3_State Demographics Analysis](https://github.com/user-attachments/assets/5bce65ca-17b1-46cb-a50e-0f8a5e3fc186)
 
-### **4️⃣ 🏛️ Constituency Analysis – Micro-Level Exploration**  
+### **4️⃣ 🏛️ Constituency Analysis – Detailed constituency-level exploration.**  
    - **Constituency-wise election results**.  
    - Candidate performance and vote margins.  
    - Drill-through functionality for detailed insights.
@@ -38,7 +38,7 @@ This Power BI project provides an **advanced, real-time analysis** of the **Indi
 ![Dashboard 4_Constituency Analysis](https://github.com/user-attachments/assets/a6d32b5e-38c0-430b-9828-5dd19e6520f0)
 
 
-### **5️⃣ State Analysis – Comparative Performance Across States**  
+### **5️⃣ State Analysis – In-depth performance comparisons across states.**  
    - **State-wise performance comparison** of political parties.  
    - Vote share trends and seat change analysis.  
    - Party-wise seat allocations across states.
@@ -46,7 +46,7 @@ This Power BI project provides an **advanced, real-time analysis** of the **Indi
 ![Dashboard 5_State Analysis](https://github.com/user-attachments/assets/35f09437-73b9-44bf-8e83-11dd5329dd3e)
 
 
-### **6️⃣ 📋 Details Grid – Underlying Data Exploration**  
+### **6️⃣ 📋 Details Grid – Grid that used Drill Through to see underlying data.**  
    - **Drill-through feature** for granular data analysis.  
    - Tabular format for sorting and filtering election results.  
    - Exportable data for external analysis.  
