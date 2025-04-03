@@ -25,7 +25,6 @@ This Power BI project provides an **advanced, real-time analysis** of the **Indi
 
 ### **3️⃣ 🌍 State Demographics – State-level insights with dynamic metrics.**  
    - **State-wise breakdown of election results**.  
-   - Voter demographics, age groups, and gender ratio.  
    - Interactive maps for comparative analysis.
      
 ![Dashboard 3_State Demographics Analysis](https://github.com/user-attachments/assets/5bce65ca-17b1-46cb-a50e-0f8a5e3fc186)
