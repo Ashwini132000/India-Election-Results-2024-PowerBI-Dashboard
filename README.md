@@ -53,3 +53,40 @@ This Power BI project provides an **advanced, real-time analysis** of the **Indi
      
 ![Dashboard 6_Details Grid](https://github.com/user-attachments/assets/cdc8b947-5c86-4eb1-a159-a1716c396530)
 
+---
+
+## 📊 Data Model & Relationships  
+This Power BI project is designed using a **structured relational data model** to ensure efficient data management, seamless filtering, and accurate reporting.
+
+### 🔗 Model View  
+The **Model View** showcases how different tables in the dataset are related. The relationships between tables allow for dynamic filtering and seamless navigation across different levels of data.  
+
+📷 **Model View Image:**  
+![Model Image](https://github.com/user-attachments/assets/7fffbf16-6e8f-49f2-bf34-0b47ad36684e)
+
+
+### 🔄 Relationships Overview  
+The relationships in this project follow best practices in **Power BI data modeling**, ensuring **optimal performance** and **accurate insights**.  
+
+📌 **Key Relationship Types:**  
+✔ **Many-to-One (`* → 1`)** – Connecting multiple records to a unique key.  
+✔ **One-to-One (`1 → 1`)** – Ensuring unique data mapping.  
+
+📷 **Model Relationships Image:**  
+![Model Relationships](https://github.com/user-attachments/assets/201a13c2-0c96-4f13-ab6f-e48f20d7e220)
+
+
+---
+
+## 🚀 Why This Data Model?  
+✔ **Improved Performance:** Efficient relationships optimize query execution.  
+✔ **Seamless Navigation:** Enables interactive drill-through and filtering.  
+✔ **Scalability:** Designed to handle large datasets with ease.  
+
+This **structured approach** enhances the accuracy of insights, making this **India General Election 2024 Analysis** project a **powerful analytical tool** for decision-making.
+
+---
+
+Let me know if you'd like any modifications! 🚀
+
+
