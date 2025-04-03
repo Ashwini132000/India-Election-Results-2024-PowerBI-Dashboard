@@ -91,15 +91,15 @@ This **structured approach** enhances the accuracy of insights, making this **In
 ## 📂 Data Sources 
 The project uses multiple CSV datasets: 
 
-✔ **Statewise_results.csv** – State-level election results. 
-✔ **Constituencywise_results.csv** – Candidate-level results. 
-✔ **Partywise_results.csv** – Party-wise performance summary. 
-✔ **States.csv** – Metadata for state names and codes. 
-✔ **Constituencywise_details.csv** – Additional constituency details. 
+✔ **Statewise_results.csv** – State-level election results.  
+✔ **Constituencywise_results.csv** – Candidate-level results.  
+✔ **Partywise_results.csv** – Party-wise performance summary.  
+✔ **States.csv** – Metadata for state names and codes.  
+✔ **Constituencywise_details.csv** – Additional constituency details.  
 
 ---
 
-## 📞 Contact & Support 
-For queries, suggestions, or troubleshooting, contact: 
-📩 abawankar13@gmail.com 
-📞 +917083631293 
+## 📞 Contact & Support  
+For queries, suggestions, or troubleshooting, contact:  
+📩 abawankar13@gmail.com  
+📞 +917083631293  
