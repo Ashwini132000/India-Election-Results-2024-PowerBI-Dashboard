@@ -62,6 +62,7 @@ This Power BI project is designed using a **structured relational data model** t
 The **Model View** showcases how different tables in the dataset are related. The relationships between tables allow for dynamic filtering and seamless navigation across different levels of data.  
 
 📷 **Model View Image:**  
+
 ![Model Image](https://github.com/user-attachments/assets/7fffbf16-6e8f-49f2-bf34-0b47ad36684e)
 
 
@@ -73,6 +74,7 @@ The relationships in this project follow best practices in **Power BI data model
 ✔ **One-to-One (`1 → 1`)** – Ensuring unique data mapping.  
 
 📷 **Model Relationships Image:**  
+
 ![Model Relationships](https://github.com/user-attachments/assets/201a13c2-0c96-4f13-ab6f-e48f20d7e220)
 
 
@@ -86,7 +88,18 @@ The relationships in this project follow best practices in **Power BI data model
 This **structured approach** enhances the accuracy of insights, making this **India General Election 2024 Analysis** project a **powerful analytical tool** for decision-making.
 
 ---
+## 📂 Data Sources
+The project uses multiple CSV datasets:
 
-Let me know if you'd like any modifications! 🚀
+✔ **Statewise_results.csv** – State-level election results.
+✔ **Constituencywise_results.csv** – Candidate-level results.
+✔ **Partywise_results.csv** – Party-wise performance summary.
+✔ **States.csv** – Metadata for state names and codes.
+✔ **Constituencywise_details.csv** – Additional constituency details.
 
+---
 
+## 📞 Contact & Support
+For queries, suggestions, or troubleshooting, contact:
+📩 abawankar13@gmail.com
+📞 +917083631293
