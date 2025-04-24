@@ -1,7 +1,7 @@
 # INDIA GENERAL ELECTION RESULTS ANALYSIS - 2024 📊  
 
 ## **🚀 Project Overview**  
-This Power BI project provides an **advanced, real-time analysis** of the **India General Election Results 2024** with cutting-edge functionalities. It features **six dynamic dashboards** offering **state-wise and constituency-level insights** to help users explore **key trends, party performance, and voter demographics**.  
+This Power BI project provides an **advanced,  interactive analysis** of the **India General Election Results 2024**. It features **six dynamic dashboards** offering **state-wise and constituency-level insights** to help users explore **key trends, party performance, and voter demographics**.  
 
 ---
 
