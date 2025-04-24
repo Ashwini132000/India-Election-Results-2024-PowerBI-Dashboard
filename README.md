@@ -55,7 +55,7 @@ This Power BI project provides an **advanced, real-time analysis** of the **Indi
 ---
 
 ## 📊 Data Model & Relationships  
-This Power BI project is designed using a **structured relational data model** to ensure efficient data management, seamless filtering, and accurate reporting.
+The project uses a **star schema design** for efficient querying and interactive filtering. Relationships between fact and dimension tables follow best modeling practices.
 
 ### 🔗 Model View  
 The **Model View** showcases how different tables in the dataset are related. The relationships between tables allow for dynamic filtering and seamless navigation across different levels of data.  
@@ -90,15 +90,17 @@ This **structured approach** enhances the accuracy of insights, making this **In
 ## 📂 Data Sources 
 The project uses multiple CSV datasets: 
 
-✔ **Statewise_results.csv** – State-level election results.  
+✔ **Statewise_results.csv** – Summary results by state.  
 ✔ **Constituencywise_results.csv** – Candidate-level results.  
-✔ **Partywise_results.csv** – Party-wise performance summary.  
+✔ **Partywise_results.csv** – Party performance overview.  
 ✔ **States.csv** – Metadata for state names and codes.  
 ✔ **Constituencywise_details.csv** – Additional constituency details.  
 
 ---
 
-## 📞 Contact & Support  
-For queries, suggestions, or troubleshooting, contact:  
-📩 abawankar13@gmail.com  
-📞 +917083631293  
+## 👤 About the Author 
+**Ashwini Bawankar**  
+📘 MSc in Mathematics | 📊 Data Science Enthusiast  
+🧠 Skilled in Power BI, Python, Machine Learning  
+📩 Email: abawankar13@gmail.com  
+🔗 Linkedln Profile: https://www.linkedin.com/in/ashwini-bawankar/ 
